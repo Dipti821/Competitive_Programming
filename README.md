@@ -1,9 +1,5 @@
 # Competitive_Programming
 
-As you know hacktoberfest is back this year again! 
-
-Hacktoberfest is an annual month-long celebration of open source organised every year by DIgital Ocean. Every participant who follows their set of rules and get 4 Pull Requests (PRs) merged will receive swags. 
-
 This repo will include all types of code algo which will be helpful for CP.
 
 ## Note:
